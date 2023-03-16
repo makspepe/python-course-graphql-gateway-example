@@ -1,4 +1,5 @@
 import json
+import os
 
 from models.countries import CountryModel
 
@@ -8,7 +9,8 @@ class CountriesService:
     Сервис для работы с данными о странах.
     """
 
-    def get_countries(self) -> list[CountryModel]:
+    @staticmethod
+    def get_countries() -> list[CountryModel]:
         """
         Получение списка стран.
 
@@ -16,7 +18,10 @@ class CountriesService:
         """
 
         result = []
-        with open("fixtures/countries.json", encoding="utf-8") as file:
+        countries_file = "fixtures/countries.json"
+        base_dir = os.path.dirname(os.path.dirname(__file__))
+        countries_file = os.path.join(base_dir, countries_file)
+        with open(countries_file, encoding="utf-8") as file:
             if data := json.load(file):
                 result = [
                     CountryModel(

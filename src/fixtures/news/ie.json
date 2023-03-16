@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "RTE.ie",
+      "title": "Enoch Burke claims some support from school community - RTE.ie",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd3d3LnJ0ZS5pZS9uZXdzL2lyZWxhbmQvMjAyMy8wMzA0LzEzNjAxOTItZW5vY2gtYnVya2Uv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-17T07:05:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Independent.ie",
+      "title": "Ireland weather: Arctic air mass to bring sub-zero blast in coming days, Met Éireann says - Independent.ie",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5pbmRlcGVuZGVudC5pZS93ZWF0aGVyL2lyZWxhbmQtd2VhdGhlci1hcmN0aWMtYWlyLW1hc3MtdG8tYnJpbmctc3ViLXplcm8tYmxhc3QtaW4tY29taW5nLWRheXMtbWV0LWVpcmVhbm4tc2F5cy00MjM2OTQyNS5odG1s0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-17T07:00:00Z",
+      "content": null
+    }
+  ]
+}

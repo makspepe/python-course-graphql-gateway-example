@@ -74,7 +74,6 @@ query {
       capital
       alpha2code
       alpha3code
-      capital
       region
       subregion
       population
@@ -151,3 +150,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
