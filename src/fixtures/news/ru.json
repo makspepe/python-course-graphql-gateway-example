@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Коммерсантъ",
+      "title": "Китай в 2023 году увеличит расходы на оборону - Коммерсантъ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmtvbW1lcnNhbnQucnUvZG9jLzU4NjE4NTXSASVodHRwczovL3d3dy5rb21tZXJzYW50LnJ1L2FtcC81ODYxODU1?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-04T07:17:42Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Коммерсантъ",
+      "title": "Valve включила трассировку лучей на первой игре для Steam Deck - Коммерсантъ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiJWh0dHBzOi8vd3d3LmtvbW1lcnNhbnQucnUvZG9jLzU4NjE4NzfSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-04T07:48:51Z",
+      "content": null
+    }
+  ]
+}

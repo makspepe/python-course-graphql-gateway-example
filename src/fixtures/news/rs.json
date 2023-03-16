@@ -1,0 +1,30 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Mondo",
+      "title": "UEFA IZBACILA 11 KLUBOVA IZ EVROPE NA TRI GODINE! Drakonske kazne, upletena ČETIRI kluba iz Ex-Yu - Mondo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbW9uZG8ucnMvU3BvcnQvRnVkYmFsL2ExNzU0OTIwL1VFRkEtaXpiYWNpbGEtMTEta2x1Ym92YS1pei1FdnJvcGUuaHRtbNIBUmh0dHBzOi8vbW9uZG8ucnMvU3BvcnQvRnVkYmFsL2FtcC9hMTc1NDkyMC9VRUZBLWl6YmFjaWxhLTExLWtsdWJvdmEtaXotRXZyb3BlLmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-17T08:08:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Kurir",
+      "title": "LAZAR UČI ZANAT I ČEKA GA POČETNA PLATA OD 100.000: I pored dobre zarade, ovih majstora sve manje ima, OVOGA S - Kurir",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lmt1cmlyLnJzL3Zlc3RpL2Jpem5pcy80MTE4NTg4L3BvY2V0bmEtcGxhdGEtemF2YXJpdmFjYS0xMDAtMDAwLWRpbmFyYdIBSGh0dHBzOi8vd3d3Lmt1cmlyLnJzL2FtcC80MTE4NTg4L3BvY2V0bmEtcGxhdGEtemF2YXJpdmFjYS0xMDAtMDAwLWRpbmFyYQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-17T07:42:54Z",
+      "content": null
+    }
+  ]
+}

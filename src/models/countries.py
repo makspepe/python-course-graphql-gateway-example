@@ -17,7 +17,7 @@ class CountryModel(BaseModel):
     longitude: float = Field(title="Долгота")
     demonym: str = Field(title="Название жителей")
     area: float = Field(title="Площадь")
-    numeric_code: str = Field(title="Трёхзначный код страны")
+    numeric_code: int = Field(title="Трёхзначный код страны")
     flag: str = Field(title="Флаг")
     currencies: list[str] = Field(title="Валюты")
     languages: list[str] = Field(title="Языки")
